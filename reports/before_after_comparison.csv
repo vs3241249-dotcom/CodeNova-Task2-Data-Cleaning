@@ -1,0 +1,23 @@
+column,dtype_before,dtype_after,missing_before,missing_after,missing_percent_before,missing_percent_after,unique_non_null_before,unique_non_null_after
+Row ID,int64,int64,0,0,0.0,0.0,9994,9994
+Order ID,str,string,0,0,0.0,0.0,5009,5009
+Order Date,str,datetime64[us],0,0,0.0,0.0,1237,1237
+Ship Date,str,datetime64[us],0,0,0.0,0.0,1334,1334
+Ship Mode,str,string,0,0,0.0,0.0,4,4
+Customer ID,str,string,0,0,0.0,0.0,793,793
+Customer Name,str,string,0,0,0.0,0.0,793,793
+Segment,str,string,0,0,0.0,0.0,3,3
+Country,str,string,0,0,0.0,0.0,1,1
+City,str,string,0,0,0.0,0.0,531,531
+State,str,string,0,0,0.0,0.0,49,49
+Postal Code,int64,int64,0,0,0.0,0.0,631,631
+Region,str,string,0,0,0.0,0.0,4,4
+Product ID,str,string,0,0,0.0,0.0,1862,1862
+Category,str,string,0,0,0.0,0.0,3,3
+Sub-Category,str,string,0,0,0.0,0.0,17,17
+Product Name,str,string,0,0,0.0,0.0,1850,1850
+Sales,float64,float64,0,0,0.0,0.0,5825,5825
+Quantity,int64,int64,0,0,0.0,0.0,14,14
+Discount,float64,float64,0,0,0.0,0.0,12,12
+Profit,float64,float64,0,0,0.0,0.0,7287,7287
+__DATASET_TOTALS__,,,0,0,0.0,0.0,,

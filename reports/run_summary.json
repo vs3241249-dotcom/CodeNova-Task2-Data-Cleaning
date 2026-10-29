@@ -1,0 +1,15 @@
+{
+  "source_file": "C:\\Users\\admin\\Desktop\\CodeNova_Task2_Data_Cleaning_Project\\data\\raw\\Sample - Superstore.csv",
+  "generated_at": "2026-10-29T08:57:36+05:30",
+  "input_rows": 9994,
+  "input_columns": 21,
+  "output_rows": 9994,
+  "output_columns": 21,
+  "missing_cells_before": 0,
+  "missing_cells_after": 0,
+  "exact_duplicate_rows_before": 0,
+  "exact_duplicate_rows_after": 0,
+  "cleaned_file": "data\\cleaned\\cleaned_Sample_-_Superstore.csv",
+  "audit_report": "reports/data_quality_audit.md",
+  "note": "Review transformations and IQR flags against domain meaning before submission."
+}

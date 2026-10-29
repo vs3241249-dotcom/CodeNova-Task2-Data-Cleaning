@@ -1,0 +1,7 @@
+column,method,lower_bound,upper_bound,outlier_count,outlier_percent,note
+Row ID,IQR (1.5 × IQR),-4995.5,14990.5,0,0.0,Flag only; investigate before changing or removing values.
+Postal Code,IQR (1.5 × IQR),-76954.5,190185.5,0,0.0,Flag only; investigate before changing or removing values.
+Sales,IQR (1.5 × IQR),-271.71000000000004,498.93,1167,11.68,Flag only; investigate before changing or removing values.
+Quantity,IQR (1.5 × IQR),-2.5,9.5,170,1.7,Flag only; investigate before changing or removing values.
+Discount,IQR (1.5 × IQR),-0.30000000000000004,0.5,856,8.57,Flag only; investigate before changing or removing values.
+Profit,IQR (1.5 × IQR),-39.724125,70.816875,1881,18.82,Flag only; investigate before changing or removing values.

@@ -1,0 +1,22 @@
+column,dtype,missing_count,missing_percent,unique_non_null
+Row ID,int64,0,0.0,9994
+Order ID,str,0,0.0,5009
+Order Date,str,0,0.0,1237
+Ship Date,str,0,0.0,1334
+Ship Mode,str,0,0.0,4
+Customer ID,str,0,0.0,793
+Customer Name,str,0,0.0,793
+Segment,str,0,0.0,3
+Country,str,0,0.0,1
+City,str,0,0.0,531
+State,str,0,0.0,49
+Postal Code,int64,0,0.0,631
+Region,str,0,0.0,4
+Product ID,str,0,0.0,1862
+Category,str,0,0.0,3
+Sub-Category,str,0,0.0,17
+Product Name,str,0,0.0,1850
+Sales,float64,0,0.0,5825
+Quantity,int64,0,0.0,14
+Discount,float64,0,0.0,12
+Profit,float64,0,0.0,7287
